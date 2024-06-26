@@ -5,7 +5,7 @@ import Nav from "./common/Nav";
 const App = () => {
   return <div>
       <Nav />
-      <Home />
+      {/* <Home /> */}
     </div>;
 };
 

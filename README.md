@@ -1,3 +1,3 @@
-# Consumer Energy Saver (CESA) App
+# Optima App
 
-App to help consumers save money and energy
+Non-profit app to help other non-profits report energy usage, save money and energy
